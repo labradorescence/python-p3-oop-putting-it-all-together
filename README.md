@@ -77,7 +77,7 @@ $ pytest -x testing/book_test.py
 or:
 
 ```console
-$ pytest -x testing/shoe_test.py
+$ pytest -x lib/testing/shoe_test.py
 ```
 
 Remember that the optional `-x` flag makes your tests stop after the first
